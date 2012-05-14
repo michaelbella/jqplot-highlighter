@@ -50,3 +50,14 @@ To use the new positioning options for tooltips on bar charts, set the highlight
 		tooltipAxes: 'yref',
 		useAxesFormatters: false,
 	}
+
+More information
+================
+
+:Date: 05-14-2012
+:Author:
+  Lucía González - Tryolabs <lucia@tryolabs.com>
+:jqPlot Author: 
+  Chris Leonello - <chris@jqplot.com>
+:Website:
+  https://github.com/tryolabs/jqplot-highlighter
