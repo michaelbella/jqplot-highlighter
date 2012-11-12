@@ -20,7 +20,7 @@ To use this plugin, first include the js file in your source: ::
 Pie charts
 ----------
 
-To use the tooltips for pie charts, you just have to set the highlighter's ``tooltipAxex`` property to *pieref*.
+To use the tooltips for pie charts, you just have to set the highlighter's ``tooltipAxes`` property to *pieref*.
 You can also set the tooltip positions by setting the (new) ``tooltipAxisX`` and ``tooltipAxisY`` properties.
 
 ::
